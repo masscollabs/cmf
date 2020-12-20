@@ -18,3 +18,7 @@ with this program. If not, see <https://www.gnu.org/licenses/>.
 # cmf
 
 convergents maintainers framework 
+
+## cmf committers experimental branch
+
+Written in Go as backend. Python for frontend/web interface.
