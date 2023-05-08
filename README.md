@@ -1,6 +1,6 @@
 convergents maintainers framework 
 
-Copyright (C) 2020,2021 Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
+Copyright (C) 2017-2023 Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU Affero General Public License as published by the Free
@@ -21,5 +21,5 @@ convergents maintainers framework
 
 ## cmf committers experimental branch
 
-Written in Go as backend. Python for frontend/web interface.
-
+Python for web application.
+Go as backend for server-side.

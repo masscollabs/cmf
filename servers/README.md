@@ -1,6 +1,6 @@
 convergents maintainers framework 
 
-Copyright (C) 2020,2021 Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
+Copyright (C) 2017-2023 Masscollabs Services
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU Affero General Public License as published by the Free
