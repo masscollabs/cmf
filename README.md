@@ -18,3 +18,9 @@ with this program. If not, see <https://www.gnu.org/licenses/>.
 # cmf
 
 convergents maintainers framework is a framework that handles Git workflow between different forges and their infrastructures.
+
+# Forges for our Source Code
+
+* https://codeberg.org/masscollabs/cmf
+* https://github.com/masscollabs/cmf
+* and your local operating system's disk
