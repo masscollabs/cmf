@@ -1,6 +1,12 @@
+# cmf
+
+convergents maintainers framework is a framework that handles Git workflow between different forges and their infrastructures.
+
+# License
+
 convergents maintainers framework 
 
-Copyright (C) 2017-2023 Masscollabs Services
+Copyright (C) 2017-2024 Masscollabs Services
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU Affero General Public License as published by the Free
@@ -14,13 +20,3 @@ details.
 
 You should have received a copy of the GNU Affero General Public License along
 with this program. If not, see <https://www.gnu.org/licenses/>.
-
-# cmf
-
-convergents maintainers framework is a framework that handles Git workflow between different forges and their infrastructures.
-
-# Forges for our Source Code
-
-* https://codeberg.org/masscollabs/cmf
-* https://github.com/masscollabs/cmf
-* and your local operating system's disk
