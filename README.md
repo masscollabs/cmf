@@ -2,6 +2,8 @@
 
 convergents maintainers framework is a framework that handles Git workflow between different forges and their infrastructures.
 
+And also we plan a portal to analyse the code , git workflow and more...
+
 # License
 
 convergents maintainers framework 
