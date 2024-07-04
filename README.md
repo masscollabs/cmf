@@ -4,6 +4,8 @@ convergents maintainers framework is a framework that handles Git workflow betwe
 
 And also we plan a portal to analyse the code , git workflow and more...
 
+And also from now on it is a replacement for GTK+ and Qt and similar technologies !...
+
 # License
 
 convergents maintainers framework 
